@@ -1,0 +1,22 @@
+.meno{
+    display: flex;
+    background-color: #5F209E;
+    
+
+}
+
+.swiper  
+.swiper-wrapper{
+    height: 527px; 
+    width: 100%;
+    
+}
+.swiper-button-next, 
+.swiper-button-prev{
+    display: none;
+}
+@media screen  and (min-width:1728px) {
+    .meno{
+       
+    }
+}
